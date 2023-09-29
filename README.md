@@ -3,7 +3,7 @@
 
 ## Imaging example
 
-The example below is an artwork from a generative artist named Zac Lieberman. This artist uses coding techniques to create unique abstract pieces in Open Frameworks. Many of his works are animated and inspirational for the animated section of the coding project.
+The example below is an artwork from a generative artist named **Zac Lieberman**. This artist uses coding techniques to create unique abstract pieces in Open Frameworks. Many of his works are animated and inspirational for the *animated section of the coding project*.
 
 ![example picture 1](assets/example1.png "Example 1")
 
@@ -17,7 +17,7 @@ Raycasting can be implemented to achieve something like the example. Codingtrain
 
 ![2d raycasting example from coding train](assets/raycasting.png "Raycasting video")
 https://www.youtube.com/watch?v=TOEi6T2mtHo 
-Raycasting allows us to create imaginary lines to determine where a line should intersect with an object. To achieve the above example, we would determine where the lines that cast off the blob should finish if crossing the boundaries or reaching the maximum distance. The positional values and velocity of the ray and boundaries must be declared – with the rays stopping their speed once hitting the edge.
+**Raycasting** allows us to create imaginary lines to determine where a line should intersect with an object. To achieve the above example, we would determine where the lines that cast off the blob should finish if crossing the boundaries or reaching the maximum distance. The positional values and velocity of the ray and boundaries must be declared – with the rays stopping their speed once hitting the edge.
 
 https://editor.p5js.org/codingtrain/sketches/Nqsq3DFv-
 
